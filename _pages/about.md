@@ -8,57 +8,64 @@ redirect_from:
 ---
 
 # About Me
-I am Huatong Song (宋华彤), a first-year Master’s student at the [Gaoling School of Artificial Intelligence (GSAI)](), Renmin University of China, supervised [by Prof. Xin Zhao](). I am expected to graduate in June 2028.  
+I am Huatong Song (宋华彤), a first-year Master’s student at the [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/), [Renmin University of China (RUC)](https://www.ruc.edu.cn), supervised by [Prof. Xin Zhao](https://scholar.google.com/citations?hl=en&user=JNhNacoAAAAJ). I am expected to graduate in June 2028.  
 
-I enrolled in GSAI at RUC in September 2021 and received a Bachelor of Engineering degree in **Artificial Intelligence** in July 2025. In parallel, I also obtained a Bachelor’s degree in **Finance** from the [Gaoli Institute]() of RUC. I have a broad interest in Natural Language Processing, Large Language Model and Agent.
+I enrolled in GSAI at RUC in September 2021 and received a Bachelor of Engineering degree in **Artificial Intelligence** in July 2025. In parallel, I also obtained a Bachelor’s degree in **Finance** from the [Gaoli Institute](http://gaoli.ruc.edu.cn/) of RUC. I have a broad interest in Natural Language Processing, Large Language Model and Agent.
+
+#  Experience
+- 2025.05 – 2025.12 · ByteDance Seed-Edge · LLM Research Intern ·  
+  Mentor: Wanjun Zhong
 
 #  Publications
 ( * indicates equal contribution, † indicates corresponding author )
 
-- [**SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training**]()  
-  **Huatong Song**\*, Lisheng Huang\*, Shuang Sun\*, Jinhao Jiang*, Ran Le, Daixuan Cheng, Guoxin Chen, Yiwen Hu, Zongchao Chen, Wayne Xin Zhao†, Yang Song†, Tao Zhang, Ji-Rong Wen  
+- [**SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training**](https://arxiv.org/abs/2602.03411)  
+  **Huatong Song**\*, Lisheng Huang\*, Shuang Sun\*, Jinhao Jiang\*, Ran Le, Daixuan Cheng, Guoxin Chen, Yiwen Hu, Zongchao Chen, Wayne Xin Zhao†, Yang Song†, Tao Zhang, Ji-Rong Wen  
   *Technical Report*
 
-- [**SWE-World: Building Software Engineering Agents in Docker-Free Environments**]()  
-  Shuang Sun\*, **Huatong Song**\*, Lisheng Huang\*, Jinhao Jiang*, Ran Le, Zhihao Lv, Zongchao Chen, Yiwen Hu, Wenyang Luo, Wayne Xin Zhao†, Yang Song†, Hongteng Xu, Tao Zhang, Ji-Rong Wen  
+- [**SWE-World: Building Software Engineering Agents in Docker-Free Environments**](https://www.arxiv.org/abs/2602.03419)  
+  Shuang Sun\*, **Huatong Song**\*, Lisheng Huang\*, Jinhao Jiang\*, Ran Le, Zhihao Lv, Zongchao Chen, Yiwen Hu, Wenyang Luo, Wayne Xin Zhao†, Yang Song†, Hongteng Xu, Tao Zhang, Ji-Rong Wen  
+  *Preprint*
+
+- [**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)  
   *Technical Report*
 
-- [**Seed1.8 Model Card: Towards Generalized Real-World Agency**]()  
-  *Technical Report*
-
-- [**Ui-tars-2 technical report: Advancing gui agent with multi-turn reinforcement learning**]()  
+- [**Ui-tars-2 technical report: Advancing gui agent with multi-turn reinforcement learning**](https://arxiv.org/abs/2509.02544)  
   Haoming Wang, Haoyang Zou, **Huatong Song**, Jiazhan Feng, Junjie Fang... ( in alphabetical order )  
   *Technical Report*
 
-- [**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**]()  
-  **Huatong Song**\*, Jinhao Jiang*, Wenqing Tian, Zhipeng Chen, Yuhuan Wu, Jiahao Zhao, Yingqian Min, Wayne Xin Zhao†, Lei Fang, Ji-Rong Wen  
+- [**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**](https://arxiv.org/abs/2505.17005)  
+  **Huatong Song**\*, Jinhao Jiang\*, Wenqing Tian, Zhipeng Chen, Yuhuan Wu, Jiahao Zhao, Yingqian Min, Wayne Xin Zhao†, Lei Fang, Ji-Rong Wen  
   *EMNLP-Findings, 2025*
 
-- [**SimpleDeepSearcher: Deep information seeking via web-powered reasoning trajectory synthesis**]()  
+- [**SimpleDeepSearcher: Deep information seeking via web-powered reasoning trajectory synthesis**](https://arxiv.org/abs/2505.16834)  
   Shuang Sun\*, **Huatong Song**\*, Yuhao Wang, Ruiyang Ren, Jinhao Jiang, Junjie Zhang, Fei Bai, Jia Deng, Wayne Xin Zhao†, Zheng Liu, Lei Fang, Zhongyuan Wang, Ji-Rong Wen  
   *EMNLP-Findings, 2025*
 
-- [**R1-searcher: Incentivizing the search capability in llms via reinforcement learning**]()  
+- [**R1-searcher: Incentivizing the search capability in llms via reinforcement learning**](https://arxiv.org/abs/2503.05592)  
   **Huatong Song**\*, Jinhao Jiang\*, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen  
   *Technical Report*
 
-- [**Yulan-mini: An open data-efficient language model**]()  
+- [**Yulan-mini: An open data-efficient language model**](https://arxiv.org/abs/2412.17743)  
   Hu Yiwen\*, **Huatong Song**\*, Jie Chen, Jia Deng, Jiapeng Wang, Kun Zhou, Yutao Zhu, Jinhao Jiang, Zican Dong, Yang Lu, Xu Miao, Wayne Xin Zhao†, Ji-Rong Wen  
   *Technical Report*
 
-- [**YuLan-Mini: Pushing the Limits of Open Data-efficient Language Model**]()  
+- [**YuLan-Mini: Pushing the Limits of Open Data-efficient Language Model**](https://aclanthology.org/2025.acl-long.268.pdf)  
   Hu Yiwen\*, **Huatong Song**\*, Jie Chen, Jia Deng, Jiapeng Wang, Kun Zhou, Yutao Zhu, Jinhao Jiang, Zican Dong, Yang Lu, Xu Miao, Wayne Xin Zhao†, Ji-Rong Wen  
   *ACL-Main-Oral, 2025*
 
-- [**Imitate, explore, and self-improve: A reproduction report on slow-thinking reasoning systems**]()  
+- [**Imitate, explore, and self-improve: A reproduction report on slow-thinking reasoning systems**](https://arxiv.org/abs/2412.09413)  
   Yingqian Min, Zhipeng Chen, Jinhao Jiang, Jie Chen, Jia Deng, Yiwen Hu, Yiru Tang, Jiapeng Wang, Xiaoxue Cheng, **Huatong Song**, Wayne Xin Zhao†, Zheng Liu, Zhongyuan Wang, Ji-Rong Wen  
   *Technical Report*
-- [**LLM-in-Sandbox Elicits General Agentic Intelligence**]()  
+- [**LLM-in-Sandbox Elicits General Agentic Intelligence**](https://arxiv.org/abs/2601.16206)  
   Daixuan Cheng, Shaohan Huang, Yuxian Gu, **Huatong Song**, Guoxin Chen, Li Dong, Wayne Xin Zhao†, Ji-Rong Wen, Furu Wei†   
-  *Technical Report*
+  *Preprint*
 
-#  Experience
-2025.05 – 2025.12 · ByteDance Seed · LLM Research Intern
+# Awards
+- 2025 Outstanding Undergraduate Graduation Thesis (Top 5% of the GSAI)
+- 2024 China National Scholarship (top 1.5%)
+- 2024 Linghang Dean’s Scholarship, GSAI
+- 2022 First-Class Academic Scholarship, RUC
 
 
 
