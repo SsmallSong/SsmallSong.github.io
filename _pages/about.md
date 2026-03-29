@@ -13,8 +13,9 @@ I am Huatong Song (宋华彤), a first-year Master’s student at the [Gaoling S
 I enrolled in GSAI at RUC in September 2021 and received a Bachelor of Engineering degree in **Artificial Intelligence** in July 2025. In parallel, I also obtained a Bachelor’s degree in **Finance** from the [Gaoli Institute](http://gaoli.ruc.edu.cn/) of RUC. I have a broad interest in Natural Language Processing, Large Language Model and Agent.
 
 #  Experience
-- 2025.05 – 2025.12 · ByteDance Seed-Edge · LLM Research Intern ·  
-  Mentor: Wanjun Zhong
+- 2026.04 – Recent · IQuest Research · LLM Research Intern ·  
+- 2025.11 – 2026.04 · Boss Zhipin Nanbeige · LLM Research Intern · 
+- 2025.05 – 2025.11 · ByteDance Seed-Edge · LLM Research Intern ·  
 
 #  Publications
 ( * indicates equal contribution, † indicates corresponding author )
