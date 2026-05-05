@@ -20,6 +20,13 @@ I enrolled in GSAI at RUC in September 2021 and received a Bachelor of Engineeri
 #  Publications
 ( * indicates equal contribution, † indicates corresponding author )
 
+- [**ClawGym: A Scalable Framework for Building Effective Claw Agents**](https://arxiv.org/pdf/2604.26904)  
+  Fei Bai\*, **Huatong Song**\*, Shuang Sun\*, Daixuan Cheng, Yike Yang, Chuan Hao, Renyuan Li, Feng Chang, Yuan Wei, Ran Tao, Bryan Dai, Jian Yang, Wayne Xin Zhao† 
+  ( Authors marked with * are ordered alphabetically )
+
+  *Technical Report*
+
+
 - [**SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training**](https://arxiv.org/abs/2602.03411)  
   **Huatong Song**\*, Lisheng Huang\*, Shuang Sun\*, Jinhao Jiang\*, Ran Le, Daixuan Cheng, Guoxin Chen, Yiwen Hu, Zongchao Chen, Wayne Xin Zhao†, Yang Song†, Tao Zhang, Ji-Rong Wen  
   *Technical Report*
@@ -59,7 +66,11 @@ I enrolled in GSAI at RUC in September 2021 and received a Bachelor of Engineeri
   Yingqian Min, Zhipeng Chen, Jinhao Jiang, Jie Chen, Jia Deng, Yiwen Hu, Yiru Tang, Jiapeng Wang, Xiaoxue Cheng, **Huatong Song**, Wayne Xin Zhao†, Zheng Liu, Zhongyuan Wang, Ji-Rong Wen  
   *Technical Report*
 - [**LLM-in-Sandbox Elicits General Agentic Intelligence**](https://arxiv.org/abs/2601.16206)  
-  Daixuan Cheng, Shaohan Huang, Yuxian Gu, **Huatong Song**, Guoxin Chen, Li Dong, Wayne Xin Zhao†, Ji-Rong Wen, Furu Wei†   
+  Daixuan Cheng, Shaohan Huang, Yuxian Gu, **Huatong Song**, Guoxin Chen, Li Dong, Wayne Xin Zhao†, Ji-Rong Wen, Furu Wei†
+  *Preprint*
+
+- [**BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?**](https://arxiv.org/pdf/2603.03194)  
+  Guoxin Chen, Fanzhe Meng, Jiale Zhao, Minghao Li, Daixuan Cheng, **Huatong Song**, Jie Chen, Yuzhi Lin, Hui Chen, Xin Zhao, Ruihua Song, Chang Liu, Cheng Chen, Kai Jia, Ji-Rong Wen†
   *Preprint*
 
 # Awards
