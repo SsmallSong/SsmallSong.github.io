@@ -100,24 +100,6 @@
     font-size: $type-size-6;
   }
 
-  span.pub-authors {
-    display: inline-block;
-    color: var(--global-text-color) !important;
-    font-size: 0.68em !important;
-    line-height: 1.2 !important;
-  }
-
-  span.pub-authors strong {
-    color: var(--global-text-color) !important;
-  }
-
-  span.pub-venue {
-    display: inline-block;
-    color: var(--global-text-color-light) !important;
-    font-size: 0.72em !important;
-    line-height: 1.2 !important;
-  }
-
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
